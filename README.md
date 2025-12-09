@@ -30,7 +30,7 @@ Currently exploring the world of programming one bug at a time.
 ---
 
 ##  GitHub Stats 
-![Stats](https://github-readme-stats.vercel.app/api?username=aaravpanchaljis-code&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=aaravpanchaljis-code&show_icons=true&theme=tokyonight)
 
 ---
 
