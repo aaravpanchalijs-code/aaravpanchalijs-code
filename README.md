@@ -30,11 +30,6 @@ Currently exploring the world of programming one bug at a time.
 ---
 
 
-
-
-
----
-
 ##  Connect with me
 
 LinkedIn → [Aarav Panchal](https://www.linkedin.com/in/aarav-panchal-35ab43335)  
