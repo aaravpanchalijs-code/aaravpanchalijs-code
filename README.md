@@ -29,8 +29,7 @@ Currently exploring the world of programming one bug at a time.
 
 ---
 
-##  GitHub Stats 
-![Stats](https://github-readme-stats.vercel.app/api?username=aarav_98&show_icons=true&theme=tokyonight)
+
 
 
 
