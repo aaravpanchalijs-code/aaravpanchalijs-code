@@ -10,7 +10,6 @@ Currently exploring the world of programming one bug at a time.
 ## Tech Arsenal
 
 **Languages I Know**
-- Python (basic)
 - C
 
 **Learning**
