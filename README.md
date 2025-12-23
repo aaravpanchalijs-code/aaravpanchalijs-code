@@ -16,7 +16,7 @@ Currently exploring the world of programming one bug at a time.
 - C++
 
 **Inclined Towards**
-- Web Development
+- Web/App Development
 
 ---
 
