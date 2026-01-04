@@ -9,11 +9,14 @@ Currently exploring the world of programming one bug at a time.
 
 ## Tech Arsenal
 
+-HTML
+-CSS
 **Languages I Know**
 - C
 
 **Learning**
 - C++
+- JavaScript
 
 **Inclined Towards**
 - Web/App Development (still exploring!)
