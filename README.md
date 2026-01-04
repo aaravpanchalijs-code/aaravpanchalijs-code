@@ -9,8 +9,7 @@ Currently exploring the world of programming one bug at a time.
 
 ## Tech Arsenal
 
--HTML
--CSS
+
 **Languages I Know**
 - C
 
