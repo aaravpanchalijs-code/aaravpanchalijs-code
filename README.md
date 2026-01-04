@@ -12,6 +12,8 @@ Currently exploring the world of programming one bug at a time.
 
 **Languages I Know**
 - C
+- HTML
+- CSS
 
 **Learning**
 - C++
