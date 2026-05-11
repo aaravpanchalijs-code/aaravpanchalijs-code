@@ -1,43 +1,67 @@
- # Hey, I'm AARAV PANCHAL 
+# Hey, I'm Aarav Panchal 
 
-Engineering Student at IIT Jodhpur | Aspiring Web Developer | Code Enthusiast
-
-I like turning caffeine into code and errors into existential crises – but I'm improving :)  
-Currently exploring the world of programming one bug at a time.
+- Engineering Student at IIT Jodhpur  
+- Exploring Software Development, DSA & Backend Engineering  
+- Turning ideas into projects (and bugs into life lessons)
 
 ---
 
-## Tech Arsenal
+##  About Me
 
+I’m currently diving deep into programming and development while building projects to strengthen my fundamentals and problem-solving skills.
 
-**Languages I Know**
+Right now I’m focused on:
+- Web Development / Backend Development
+- Data Structures & Algorithms
+- Learning how real-world software is actually built
+
+Still early in the journey, but consistently building and improving....
+
+---
+
+## Tech Stack
+
+### Languages
 - C
+- C++
+- JavaScript
 - HTML
 - CSS
 
-**Learning**
-- C++
-- JavaScript
+### Frameworks & Technologies
+- React
+- Node.js
+- Tailwind CSS
 
-**Inclined Towards**
-- Web/App Development (still exploring!)
-
----
-
-##  Goals
-
-- Build real-world projects  
-- Become good enough to understand my own old code and create fascinating websites  
-- Create a portfolio that doesn’t look like a group project gone wrong  
+### Currently Learning
+- Express.js
+- MongoDB
+- Backend Development
 
 ---
 
+##  What I'm Working On
 
-##  Connect with me
-
-LinkedIn → [Aarav Panchal](https://www.linkedin.com/in/aarav-panchal-35ab43335)  
-Instagram → [aarav.panchal_10](https://instagram.com/aarav.panchal_10)
+- Building beginner-to-intermediate full stack projects
+- Strengthening DSA and problem solving
+- Understanding backend architecture and APIs
+- Learning clean code practices and project structuring
 
 ---
 
-*learning to code is fun until the compiler starts judging you!*
+## 🎯 Goals
+
+- Become a strong software engineer with solid fundamentals
+- Build projects that solve real problems
+- Contribute to open source someday
+- Create products instead of just tutorial clones
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn  
+https://www.linkedin.com/in/aarav-panchal-35ab43335
+
+- Instagram  
+https://instagram.com/aarav.panchal_10
