@@ -23,7 +23,6 @@ Still early in the journey, but consistently building and improving....
 
 ### Languages
 - C
-- C++
 - JavaScript
 - HTML
 - CSS
@@ -43,7 +42,6 @@ Still early in the journey, but consistently building and improving....
 ##  What I'm Working On
 
 - Building beginner-to-intermediate full stack projects
-- Strengthening DSA and problem solving
 - Understanding backend architecture and APIs
 - Learning clean code practices and project structuring
 
@@ -63,5 +61,6 @@ Still early in the journey, but consistently building and improving....
 - LinkedIn  
 https://www.linkedin.com/in/aarav-panchal-35ab43335
 
-- Instagram  
+- Instagram
+https://instagram.com/aarav.panchal_10
 https://instagram.com/aarav.panchal_10
