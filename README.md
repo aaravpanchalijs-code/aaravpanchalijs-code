@@ -23,6 +23,7 @@ Still early in the journey, but consistently building and improving....
 
 ### Languages
 - C
+- Python
 - JavaScript
 - HTML
 - CSS
@@ -31,6 +32,8 @@ Still early in the journey, but consistently building and improving....
 - React
 - Node.js
 - Tailwind CSS
+- FastAPI(MySQL db)
+- Docker
 
 ### Currently Learning
 - Express.js
