@@ -29,11 +29,12 @@ Still early in the journey, but consistently building and improving....
 - CSS
 
 ### Frameworks & Technologies
-- React
 - Node.js
+- GO
 - Tailwind CSS
 - FastAPI(MySQL db)
 - Docker
+  
 
 ### Currently Learning
 - Express.js
@@ -44,7 +45,7 @@ Still early in the journey, but consistently building and improving....
 
 ##  What I'm Working On
 
-- Building beginner-to-intermediate full stack projects
+- Building full stack projects
 - Understanding backend architecture and APIs
 - Learning clean code practices and project structuring
 
